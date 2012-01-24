@@ -1,0 +1,2 @@
+Achtung Motoren fahren erst bei speed 140 an (und auch nur wenn man den roboter hochhebt)
+Bei Speed 150 fahren sie ganz langsam (mit dem Roboter)
